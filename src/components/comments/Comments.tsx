@@ -14,7 +14,7 @@ const Comments = () => {
     return (
         <div>
             <div>
-                <h3>Post Details</h3> &&
+                <h3>Post Details</h3>
                 <Outlet/>
             </div>
             <div>
